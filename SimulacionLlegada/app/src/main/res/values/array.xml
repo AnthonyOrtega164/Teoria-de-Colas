@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Array con los valores de la cabecera de la tabla-->
+    <string-array name="cabecera_tabla">
+        <item>Clientes</item>
+        <item>Aleatorio 1</item>
+        <item>Aleatorio 2</item>
+        <item>Tiempo Llegada</item>
+        <item>Momento de Llegada</item>
+        <item>Tiempo Inicio Servicio</item>
+        <item>Tiempo Espera</item>
+        <item>Tiempo Salida</item>
+        <item>Tiempo de Atencion</item>
+    </string-array></resources>
